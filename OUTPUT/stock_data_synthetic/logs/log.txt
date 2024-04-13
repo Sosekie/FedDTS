@@ -1,0 +1,9 @@
+2024-04-13-15-29: {'overall': {'trainable': '287.49K', 'non_trainable': '0', 'total': '287.49K'}, 'model': {'trainable': '287.49K', 'non_trainable': '0', 'total': '287.49K'}}
+2024-04-13-15-31: {'overall': {'trainable': '287.49K', 'non_trainable': '0', 'total': '287.49K'}, 'model': {'trainable': '287.49K', 'non_trainable': '0', 'total': '287.49K'}}
+2024-04-13-15-31: {'overall': {'trainable': '287.49K', 'non_trainable': '0', 'total': '287.49K'}, 'model': {'trainable': '287.49K', 'non_trainable': '0', 'total': '287.49K'}}
+2024-04-13-15-32: {'overall': {'trainable': '287.49K', 'non_trainable': '0', 'total': '287.49K'}, 'model': {'trainable': '287.49K', 'non_trainable': '0', 'total': '287.49K'}}
+2024-04-13-15-32: {'overall': {'trainable': '287.49K', 'non_trainable': '0', 'total': '287.49K'}, 'model': {'trainable': '287.49K', 'non_trainable': '0', 'total': '287.49K'}}
+2024-04-13-15-34: {'overall': {'trainable': '287.49K', 'non_trainable': '0', 'total': '287.49K'}, 'model': {'trainable': '287.49K', 'non_trainable': '0', 'total': '287.49K'}}
+2024-04-13-15-34: stock_data_synthetic: start training...
+2024-04-13-15-37: {'overall': {'trainable': '287.49K', 'non_trainable': '0', 'total': '287.49K'}, 'model': {'trainable': '287.49K', 'non_trainable': '0', 'total': '287.49K'}}
+2024-04-13-15-37: stock_data_synthetic: start training...
