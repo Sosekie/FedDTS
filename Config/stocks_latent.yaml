@@ -1,7 +1,7 @@
 model:
   target: Models.interpretable_diffusion.gaussian_diffusion.Diffusion_TS
   params:
-    seq_length: 192
+    seq_length: 24
     feature_size: 4
     n_layer_enc: 2
     n_layer_dec: 2
@@ -46,7 +46,7 @@ dataloader:
       name: stock
       proportion: 1.0  # Set to rate < 1 if training conditional generation
       data_root: ./Data/datasets/stock_data_latent_features.csv
-      window: 192  # seq_length
+      window: 24  # seq_length
       save2npy: True
       neg_one_to_one: True
       seed: 123
@@ -58,7 +58,7 @@ dataloader:
       name: stock
       proportion: 0.9  # rate
       data_root: ./Data/datasets/stock_data_latent_features.csv
-      window: 192  # seq_length
+      window: 24  # seq_length
       save2npy: True
       neg_one_to_one: True
       seed: 123

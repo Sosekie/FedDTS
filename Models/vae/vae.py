@@ -165,7 +165,7 @@ def train_vae_alone(EPOCHS=200, BATCH_SIZE=64, latent_dim=3):
     np_outs = outs.detach().numpy()
     original_data = sc.inverse_transform(np_outs)
     pd.DataFrame(original_data, columns=df.columns).to_csv(
-        "Data/stock_data_synthetic.csv", index=False
+        "Data/datasets/stock_data_synthetic.csv", index=False
     )
 
 
