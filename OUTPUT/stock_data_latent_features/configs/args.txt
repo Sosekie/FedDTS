@@ -218,3 +218,43 @@
   seed: 12345
   tensorboard: False
   train: True
+==> torch version: 2.0.1+cu117
+==> cudnn version: 8500
+==> Cmd:
+['main.py', '--name', 'stock_data_latent_features', '--config_file', 'Config/stocks_latent.yaml', '--gpu', '0', '--train']
+==> args:
+  config_file: Config/stocks_latent.yaml
+  cudnn_deterministic: False
+  gpu: 0
+  milestone: 10
+  missing_ratio: 0.0
+  mode: infill
+  name: stock_data_latent_features
+  opts: []
+  output: OUTPUT
+  pred_len: 0
+  sample: 0
+  save_dir: OUTPUT/stock_data_latent_features
+  seed: 12345
+  tensorboard: False
+  train: True
+==> torch version: 2.0.1+cu117
+==> cudnn version: 8500
+==> Cmd:
+['main.py', '--name', 'stock_data_latent_features', '--config_file', 'Config/stocks_latent.yaml', '--gpu', '0', '--train']
+==> args:
+  config_file: Config/stocks_latent.yaml
+  cudnn_deterministic: False
+  gpu: 0
+  milestone: 10
+  missing_ratio: 0.0
+  mode: infill
+  name: stock_data_latent_features
+  opts: []
+  output: OUTPUT
+  pred_len: 0
+  sample: 0
+  save_dir: OUTPUT/stock_data_latent_features
+  seed: 12345
+  tensorboard: False
+  train: True
